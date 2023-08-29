@@ -2,9 +2,14 @@ pandas
 numpy
 matplotlib
 scikit-learn
-mlflow==2.2.2
-pyYAML
-Flask
-ensure==1.0.2
+notebook
 python-box==6.0.2
+tqdm
+ensure==1.0.2
+joblib
+pyYAML
+types-PyYAML
+Flask
+Flask-Cors
+mlflow==2.2.2
 -e .
